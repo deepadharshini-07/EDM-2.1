@@ -65,7 +65,7 @@ STEP-11: Create a line
 
 ### OUTPUT
 
-<img width="1255" height="892" alt="image" src="https://github.com/user-attachments/assets/8fba2e66-58aa-4525-b493-51d048e10fc3" />
+<img width="1186" height="842" alt="image" src="https://github.com/user-attachments/assets/3323c59f-972d-4e3d-a1e0-9a4b731f4857" />
 
 ### RESULT:
 Thus, the 3D model is created from given isometric drawing.
